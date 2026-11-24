@@ -1,6 +1,6 @@
 # Spelling Bee
 
-Listen to the word and type the spelling.
+Listen to the word and type the spelling. 40 words in 3 levels with Arabic meanings.
 
 A free English learning game for students and teachers. No install, no tracking, one HTML file.
 
